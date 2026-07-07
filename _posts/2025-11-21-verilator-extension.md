@@ -4,6 +4,8 @@ title: Update on Fault-Injection with Verilator
 author: Jonathan Schröter
 date: 2025-11-24
 ---
+**For the up to date version of the extension please read the update post:** [Fault-Injection with Verilator: Update on the DPI-Hook Extension](% post_url 2026-07-03-verilator-extension-update %)
+
 As part of our ongoing efforts to improve tooling for hardware verification and software–hardware co-design, we extended Verilator with support for native fault-injection mechanisms.
 
 Verilator in its current upstream version does not provide built-in fault-injection capabilities, which are essential for investigating hardware behavior under unexpected error conditions.
